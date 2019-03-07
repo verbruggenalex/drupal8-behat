@@ -1,0 +1,21 @@
+{
+    "name": "verbruggenalex/drupal8-behat",
+    "description": "Drupal 8 Core behat tests.",
+    "type": "library",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Alex Verbruggen",
+            "role": "Maintainer"
+        }
+    ],
+    "require": {
+        "drupal/drupal-extension": "^3.4",
+        "openeuropa/task-runner": "^1.0@beta"
+    },
+    "autoload": {
+        "psr-4": {
+            "VerbruggenAlex\\Drupal8Behat\\": "./src/"
+        }
+    }
+}

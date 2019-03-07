@@ -1,2 +1,3 @@
 # drupal8-behat
-Drupal 8 Behat package
+
+Drupal 8 Core behat tests.
